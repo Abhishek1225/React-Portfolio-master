@@ -125,7 +125,7 @@ const About = () => {
         <p>
           <b> ➢ Standard XII </b>
           <br></br>
-          Tulsi vidya niketan <br></br>
+          CBSE  <br></br>
           
         </p>
         
